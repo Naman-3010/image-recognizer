@@ -1,0 +1,24 @@
+#camera{
+    border:2px solid gold;
+    width:300px;
+    height: 300px;
+    
+    
+
+ }
+
+ body{
+     color:darkblue;
+     background:linear-gradient(#BCB8F2 35%,#F2B8C0 65%);
+     font-family: cursive;
+
+ }
+
+ .heading{
+     width: 80%;
+     font-size: 22px;
+ }
+
+ .name_of_objects,#result_object_name,#result_object_accuracy{
+     color: red;
+ }
